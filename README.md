@@ -1,4 +1,25 @@
-# Welcome to your Expo app 👋
+# Project Documentation
+
+# Welcome to finage 👋
+
+### Your own personlize Financial AI Agent to advise you through your spendings
+
+<img src="./assets/images/logo_tr.png" width="200" height="200" />
+
+- 📊 Smart Insights – Get personalized financial advice based on your spending habits.
+- 💡 Intelligent Recommendations – Ask anything about budgeting, saving, or investing, and get expert AI-driven advice.
+- 📈 Track & Grow – Monitor your transactions and make informed financial decisions effortlessly.
+- 🔒 Secure & Reliable – Your data stays private, and your finances stay on track.
+
+
+**Let’s build a smarter financial future together!**
+
+
+
+
+---
+
+# Expo Documentation
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
